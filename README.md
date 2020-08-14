@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, TosakaUCW there! 👋
+
+I'm TosakaUCW, a senior high school student and **OIer** from Hangzhou, ZheJiang, China.
+
+[![TosakaUCW's github stats](https://github-readme-stats.vercel.app/api?username=TosakaUCW&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosakaUCW)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TosakaUCW/TosakaUCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
