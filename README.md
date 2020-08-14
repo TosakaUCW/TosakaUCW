@@ -6,7 +6,7 @@
 
 I'm TosakaUCW, a senior high school student and **OIer** from Hangzhou, ZheJiang, China.
 
--   🎯 Making my dream come true
+-   🎯 Making my dream alive
 -   ⚒️ C / C++ / Python / Web
 -   ✏️ Chinese senior high school student
 -   🌱 OIer, fighting for NOIp
@@ -21,18 +21,3 @@ I'm TosakaUCW, a senior high school student and **OIer** from Hangzhou, ZheJiang
 [![CF ratings](https://cfrating.ihcr.top/?user=TosakaUCW)](https://codeforces.com/profile/TosakaUCW)
 
 </div>
-
-<!--
-**TosakaUCW/TosakaUCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
