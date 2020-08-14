@@ -10,7 +10,7 @@ I'm TosakaUCW, a senior high school student and **OIer** from Hangzhou, ZheJiang
 -   ⚒️ C / C++ / Python / Web
 -   ✏️ Chinese senior high school student
 -   🌱 OIer, fighting for NOIp
--   👨 Pronouns: he/him
+-   👨 Pronouns: he / him
 -   💬 Ask me about: Anything
 -   📫 How to reach me: tosakaucw0@gmai.com
 
