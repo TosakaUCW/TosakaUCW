@@ -6,6 +6,7 @@
 
 I'm TosakaUCW, a senior high school student and **OIer** from Hangzhou, ZheJiang, China.
 
+-   🎯 Making my dream come true
 -   ⚒️ C / C++ / Python / Web
 -   ✏️ Chinese senior high school student
 -   🌱 OIer, fighting for NOIp
