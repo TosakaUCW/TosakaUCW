@@ -14,9 +14,13 @@ I'm TosakaUCW, a senior high school student and **OIer** from Hangzhou, ZheJiang
 -   💬 Ask me about: Anything
 -   📫 How to reach me: tosakaucw0@gmai.com
 
+<div align=center>
+  
 [![GitHub contributions](https://img.shields.io/badge/dynamic/json?url=https://github-contributions.now.sh/api/v1/TosakaUCW&label=github&query=$.years.0.total&color=success&style=for-the-badge&suffix=@this%20year)](https://github.com/TosakaUCW)
 
 [![CF ratings](https://cfrating.ihcr.top/?user=TosakaUCW)](https://codeforces.com/profile/TosakaUCW)
+
+</div>
 
 <!--
 **TosakaUCW/TosakaUCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
