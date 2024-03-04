@@ -1,4 +1,4 @@
-### Hi, TosakaUCW there! 👋
+### Halo
 
 <img align="right" alt="TosakaUCW's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=TosakaUCW&show_icons=true&theme=tokyonight">
 
@@ -6,11 +6,8 @@
 
 I'm TosakaUCW, a senior high school student and **OIer** from Hangzhou, ZheJiang, China.
 
--   🎯 Making my dream alive
--   ⚒️ C / C++ / Python / Web
 -   ✏️ Chinese senior high school student
--   🌱 OIer, fighting for NOIp
--   👨 Pronouns: he / him
+-   🌱 OIer
 -   💬 Ask me about: Anything
 -   📫 How to reach me: tosakaucw0@gmai.com
 
