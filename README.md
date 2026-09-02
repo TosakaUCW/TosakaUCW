@@ -21,5 +21,4 @@
 ### 🌟 About Me
 
 - 🏫 An undergraduate student at **Beijing Normal–Hong Kong Baptist University**, majoring in Computer Science and Technology.
-- 🔭 My research focuses on **trustworthy AI**, **agentic AI**, and **3D Gaussian Splatting**.
-- 🚀 Currently research intern at **Binjiang Institute of Zhejiang University (ZJU)**
+- 🔭 My research focuses on **Trustworthy AI** and **Agentic AI**.
